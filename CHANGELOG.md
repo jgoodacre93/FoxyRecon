@@ -6,8 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [ 0.24.3 ] - Unrealeased
 
-## Add
+### Add
 - Lookup TLS certificate by hash on crt.sh
+
+### Fix
+- Update ThreatBook URL
 
 ## [ 0.24.2 ] - 2025-06-21
 

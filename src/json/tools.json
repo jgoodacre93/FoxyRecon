@@ -1479,8 +1479,8 @@
         {
             "name": "Threatbook",
             "url": {
-                "domain": "https://threatbook.io/domain/%s",
-                "ip": "https://threatbook.io/ip/%s"
+                "domain": "https://i.threatbook.io/research/%s",
+                "ip": "https://i.threatbook.io/research/%s"
             },
             "desc": "ThreatBook CTI provides high-fidelity intelligence collected from alerts from real customer cases.",
             "icon": "threatbook.png",
