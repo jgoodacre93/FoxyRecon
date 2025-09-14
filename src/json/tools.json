@@ -229,12 +229,13 @@
         {
 			"name": "crt.sh",
 			"url": {
-                "domain": "https://crt.sh/?q=%s"
+                "domain": "https://crt.sh/?q=%s",
+                "hash": "https://crt.sh/?q=%s"
             },
             "desc": "Certificate search",
 			"icon": "crtsh.png",
 			"color": "#00B373",
-			"types": ["domain"],
+			"types": ["domain", "hash"],
             "tags": ["tls"],
 			"autoGraph": false
 		},
