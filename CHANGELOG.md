@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fix
 - Update ThreatBook URL
 - WebCheck URL
+- Vulnerability icon in graph editor
 
 ## [ 0.24.2 ] - 2025-06-21
 
