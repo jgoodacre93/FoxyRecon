@@ -1792,8 +1792,8 @@
         {
             "name": "Web Check",
             "url": {
-                "url": "https://web-check.as93.net/results/%s",
-                "domain": "https://web-check.as93.net/results/%s"
+                "url": "https://web-check.xyz/check/%s",
+                "domain": "https://web-check.xyz/check/%s"
             },
             "desc": "Get an insight into the inner-workings of a given website: uncover potential attack vectors, analyse server architecture, view security configurations, and learn what technologies a site is using.",
             "icon": "webcheck.png",
