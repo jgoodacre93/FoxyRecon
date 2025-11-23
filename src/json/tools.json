@@ -542,6 +542,17 @@
 			"autoGraph": false
         },
         {
+            "name": "Google (Favicon)",
+            "url": {
+                "domain": "https://www.google.com/s2/favicons?domain=%s&sz=32"
+            },
+            "desc": "Get the favicon of a domain (Google API)",
+            "icon": "google.png",
+            "color": "#EA4335",
+            "types": ["domain"],
+			"autoGraph": false
+        },
+        {
             "name": "Google Trends",
             "url": {
                 "domain": "https://trends.google.com/trends/explore?q=%s",

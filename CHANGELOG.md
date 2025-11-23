@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Lookup TLS certificate by hash on crt.sh
 - MalShare hash lookup tool
 - CIRCL.lu Lookyloo lookup web tool (for URLs and domains)
+- Add Google tool to pull the favicon of a given domain
 
 ### Fix
 - Update ThreatBook URL
