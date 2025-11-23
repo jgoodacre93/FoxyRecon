@@ -990,6 +990,19 @@
 			"autoGraph": false
         },
         {
+            "name": "Lookyloo (CIRCL.lu)",
+            "url": {
+                "domain": "https://lookyloo.circl.lu/hostnames/%s?from_popup=True",
+                "url": "https://lookyloo.circl.lu/urls/%b?from_popup=True"
+            },
+            "desc": "Check and review URLs and website (by CIRCL.lu)",
+            "icon": "lookyloo.png",
+            "color": "#0D6EFD",
+            "types": ["domain","url"],
+            "tags": ["screenshot","sandbox"],
+			"autoGraph": false
+        },
+        {
             "name": "Lupovis",
             "url": {
                 "ip": "https://prowl.lupovis.io/?ip=%s"
