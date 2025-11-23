@@ -1002,6 +1002,18 @@
 			"autoGraph": false
         },
         {
+            "name": "MalShare",
+            "url": {
+                "hash": "https://malshare.com/sample.php?action=detail&hash=%s"
+            },
+            "desc": "The MalShare Project is a community driven public malware repository that works to provide free access to malware samples",
+            "icon": "malshare.png",
+            "color": "#060606",
+            "types": ["hash"],
+            "tags": ["ioc"],
+			"autoGraph": false
+        },
+        {
             "name": "MALWARE bazaar",
             "url": {
                 "hash": "https://bazaar.abuse.ch/browse/?search=sha256%3A%s"
